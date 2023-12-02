@@ -1,2 +1,3 @@
-# course-c
-Course NC - C Language 
+# EXERCISES ANDRES C
+
+    - Exercises Andres - C Language 
